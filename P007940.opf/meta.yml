@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS16726
   title: གཙང་པཎྜི་ཏ་བློ་བཟང་བསྟན་པ་རྒྱ་མཚོའི་རྣམ་ཐར་མདོར་བསྡུས།
-  volume: ''
+  volume:
+    194236d404354a41a51ada98e48d128e:
+      image_group_id: I8LS16736
+      title: Volume 1 of gtsang paN+Di ta blo bzang bstan pa rgya mtsho'i rnam thar
+        mdor bsdus/
+      volume_number: 1
+      total_pages: 66
   author: ''
+ebook_metadata:
+  title: གཙང་པཎྜི་ཏ་བློ་བཟང་བསྟན་པ་རྒྱ་མཚོའི་རྣམ་ཐར་མདོར་བསྡུས།
+  author: ''
+  sku: P007940
+  cover: cover.jpg
+  layers:
+  - pagination
